@@ -1,0 +1,6 @@
+name: drupalclass
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupalclass
+  id: 685c8eec-4e10-40eb-9ce2-4175d41a394d
